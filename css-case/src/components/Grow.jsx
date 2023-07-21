@@ -3,7 +3,7 @@ import screens from './../images/screens.svg'
 
 const Grow = () => {
     return (
-        <section className='bg-white md:bg-[#FFFBEB] bg-bg-2 bg-no-repeat bg-bottom'>
+        <section className='bg-white md:bg-[#FFFBEB] bg-bg-2 bg-no-repeat bg-contain bg-bottom'>
             <div className='container px-4 md:px-0'>
                 <h2 className='text-[32px] font-bold leading-9 md:text-[56px] md:leading-[62px] pt-10 mb-8 text-center md:text-left'>Grow your collection</h2>
                 <p className='text-lg text-center md:text-left'>Enim neque massa porta adipiscing elit. Sem libero id faucibus nibh amet dictum pellentesque sed. Eu non turpis risus odio sapien, fames sit rhoncus.
